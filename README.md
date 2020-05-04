@@ -1,3 +1,5 @@
+This is new test.
+
 <<<<<<< HEAD
 #This is score project
 =======
